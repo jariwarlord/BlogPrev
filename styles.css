@@ -29,7 +29,14 @@ width: 400px;
     color: hsl(228, 45%, 44%); 
 }
 body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     background-color: #F4D04E;
+    margin: 0; 
+    background-color: #F4D04E;
+    flex-direction: column;
 }
 h4{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
