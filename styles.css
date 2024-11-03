@@ -1,5 +1,5 @@
 .card{
-box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 2.0);
 background-color: white;
 border-radius: 15px;
 width: 400px;
@@ -7,7 +7,7 @@ width: 400px;
 #photo{
     padding-left: 30px;
     padding-top: 15px;
-    border-radius: 12%;
+    border-radius: 11%;
 
 }
 .container{
@@ -18,7 +18,7 @@ width: 400px;
     background-color: #F4D04E;
     width: 60px;
     padding: 3px;
-    border-radius: 15%;
+    border-radius: 11%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
