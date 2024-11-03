@@ -1,0 +1,36 @@
+.card{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+background-color: white;
+border-radius: 15px;
+width: 400px;
+}
+#photo{
+    padding-left: 30px;
+    padding-top: 15px;
+    border-radius: 12%;
+
+}
+.container{
+    padding: 2px 16px;
+}
+#Learning{
+    color: black;
+    background-color: #F4D04E;
+    width: 60px;
+    padding: 3px;
+    border-radius: 15%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+body{
+    background-color: #F4D04E;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
