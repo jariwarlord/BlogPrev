@@ -16,9 +16,9 @@ width: 400px;
 #Learning{
     color: black;
     background-color: #F4D04E;
-    width: 60px;
-    padding: 3px;
-    border-radius: 11%;
+    width: fit-content;
+    padding: 8px 12px;
+    border-radius: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -40,4 +40,11 @@ body{
 }
 h4{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.greg{
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
