@@ -38,8 +38,12 @@ body{
     background-color: #F4D04E;
     flex-direction: column;
 }
-h4{
+h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2:hover{
+    color: #F4D04E;
 }
 .greg{
     gap: 10px;
